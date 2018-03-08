@@ -10,7 +10,7 @@
 	<script src="//go.mobtrks.com/notice.php?p=1591697&interstitial=1"></script>
 	<!-- 3-->
     	<script src="//basepush.com/ntfc.php?p=1591723" data-cfasync="false" async></script>
-    <?php echo include_once (dirname(__FILE__) . '/__AntiAdBlock.php'); ?> 
+     
     
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -25,7 +25,7 @@
     <![endif]-->
   </head>
   <body>
-	
+<?php echo include_once (dirname(__FILE__) . '/__AntiAdBlock.php'); ?>	
     <div class="content">
       <div class="col-md-8 col-md-offset-2">
         <div class="panel panel-primary">
