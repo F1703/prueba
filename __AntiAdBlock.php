@@ -135,3 +135,5 @@ class __AntiAdBlock
 
 $__aab = new __AntiAdBlock();
 return $__aab->get();
+
+
