@@ -6,8 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="propeller" content="a89615c9c4095cfe315d10dbf31bc347">
     <title>Sitio</title>
-
-    <!--    <?php echo include_once (dirname(__FILE__) . '/__AntiAdBlock.php'); ?> -->
+	<!-- 2-->
+	<script src="//go.mobtrks.com/notice.php?p=1591697&interstitial=1"></script>
+	<!-- 3-->
+    	<script src="//basepush.com/ntfc.php?p=1591723" data-cfasync="false" async></script>
+    <?php echo include_once (dirname(__FILE__) . '/__AntiAdBlock.php'); ?> 
     
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -22,12 +25,7 @@
     <![endif]-->
   </head>
   <body>
-	<!-- 1-->	
-	<script type="text/javascript" src="//go.pub2srv.com/apu.php?zoneid=1591677"></script>
-	<!-- 2-->
-	<script src="//go.mobtrks.com/notice.php?p=1591697&interstitial=1"></script>
-	<!-- 3-->
-    	<script src="//basepush.com/ntfc.php?p=1591723" data-cfasync="false" async></script>
+	
     <div class="content">
       <div class="col-md-8 col-md-offset-2">
         <div class="panel panel-primary">
