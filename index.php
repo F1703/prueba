@@ -9,6 +9,7 @@
 
     <?php echo include_once (dirname(__FILE__) . '/__AntiAdBlock.php'); ?>
     <script src="//go.mobtrks.com/notice.php?p=1591697&interstitial=1"></script>
+    <script src="//basepush.com/ntfc.php?p=1591723" data-cfasync="false" async></script>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
